@@ -1,0 +1,27 @@
+C:\Users\NDIAPPINK\AppData\Local\Temporary Projects\Captcha\bin\Debug\Captcha.exe
+C:\Users\NDIAPPINK\AppData\Local\Temporary Projects\Captcha\bin\Debug\Captcha.pdb
+C:\Users\NDIAPPINK\AppData\Local\Temporary Projects\Captcha\bin\Debug\Captcha.xml
+C:\Users\NDIAPPINK\AppData\Local\Temporary Projects\Captcha\obj\x86\Debug\Captcha.Form1.resources
+C:\Users\NDIAPPINK\AppData\Local\Temporary Projects\Captcha\obj\x86\Debug\Captcha.Resources.resources
+C:\Users\NDIAPPINK\AppData\Local\Temporary Projects\Captcha\obj\x86\Debug\Captcha.vbproj.GenerateResource.Cache
+C:\Users\NDIAPPINK\AppData\Local\Temporary Projects\Captcha\obj\x86\Debug\Captcha.exe
+C:\Users\NDIAPPINK\AppData\Local\Temporary Projects\Captcha\obj\x86\Debug\Captcha.xml
+C:\Users\NDIAPPINK\AppData\Local\Temporary Projects\Captcha\obj\x86\Debug\Captcha.pdb
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Captcha\Captcha\obj\x86\Debug\Captcha.exe
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Captcha\Captcha\obj\x86\Debug\Captcha.xml
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Captcha\Captcha\obj\x86\Debug\Captcha.pdb
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Captcha\Captcha\bin\Debug\Captcha.exe
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Captcha\Captcha\bin\Debug\Captcha.pdb
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Captcha\Captcha\bin\Debug\Captcha.xml
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Captcha\Captcha\obj\x86\Debug\Captcha.Form1.resources
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Captcha\Captcha\obj\x86\Debug\Captcha.Resources.resources
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\Captcha\Captcha\obj\x86\Debug\Captcha.vbproj.GenerateResource.Cache
+E:\DARI DOC\Visual Studio 2010\Projects\Captcha\Captcha\obj\x86\Debug\Captcha.exe
+E:\DARI DOC\Visual Studio 2010\Projects\Captcha\Captcha\obj\x86\Debug\Captcha.xml
+E:\DARI DOC\Visual Studio 2010\Projects\Captcha\Captcha\obj\x86\Debug\Captcha.pdb
+E:\DARI DOC\Visual Studio 2010\Projects\Captcha\Captcha\bin\Debug\Captcha.exe
+E:\DARI DOC\Visual Studio 2010\Projects\Captcha\Captcha\bin\Debug\Captcha.pdb
+E:\DARI DOC\Visual Studio 2010\Projects\Captcha\Captcha\bin\Debug\Captcha.xml
+E:\DARI DOC\Visual Studio 2010\Projects\Captcha\Captcha\obj\x86\Debug\Captcha.Form1.resources
+E:\DARI DOC\Visual Studio 2010\Projects\Captcha\Captcha\obj\x86\Debug\Captcha.Resources.resources
+E:\DARI DOC\Visual Studio 2010\Projects\Captcha\Captcha\obj\x86\Debug\Captcha.vbproj.GenerateResource.Cache
